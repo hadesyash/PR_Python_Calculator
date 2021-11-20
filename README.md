@@ -2,7 +2,8 @@
 
 Create a basic GUI python calculator using your preffered GUI library.
 
-the calculator should include the following functions
+the calculator should include the following functions:
+
 	- Add two numbers
 	- subract two numbers
 	- multiply two numbers
